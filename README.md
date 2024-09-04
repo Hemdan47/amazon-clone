@@ -16,7 +16,7 @@ This project is a front-end web application that simulates a simplified version 
 
 ## Live Demo
 
-You can view a live demo of this project [here](https://hemdan47.github.io/amazon-clone/) (replace with your actual demo link).
+You can view a live demo of this project [here](https://hemdan47.github.io/amazon-clone/).
 
 ## Project Structure
 
